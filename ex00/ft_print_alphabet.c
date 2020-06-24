@@ -13,4 +13,9 @@ void ft_print_alphabet(void)
 		ft_putchar(letter);
 		letter = letter + 1;
 	}
+	int main()
+	{
+		ft_putchar();
+		return 0;
+	}
 }
